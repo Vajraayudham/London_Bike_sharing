@@ -2,18 +2,27 @@
 London bike sharing dataset Historical data for bike sharing in London 'Powered by TfL Open Data'
 
 Metadata:
-"timestamp" - timestamp field for grouping the data
-"cnt" - the count of a new bike shares
-"t1" - real temperature in C
-"t2" - temperature in C "feels like"
-"hum" - humidity in percentage
-"wind_speed" - wind speed in km/h
-"weather_code" - category of the weather
-"is_holiday" - boolean field - 1 holiday / 0 non holiday
-"is_weekend" - boolean field - 1 if the day is weekend
-"season" - category field meteorological seasons: 0-spring ; 1-summer; 2-fall; 3-winter.
 
-"weathe_code" category description:
-1 = Clear ; mostly clear but have some values with haze/fog/patches of fog/ fog in vicinity 2 = scattered clouds / few clouds 3 = Broken clouds 4 = Cloudy 7 = Rain/ light Rain shower/ Light rain 10 = rain with thunderstorm 26 = snowfall 94 = Freezing Fog
+1. "timestamp" - timestamp field for grouping the data
+2. "cnt" - the count of a new bike shares
+3. "t1" - real temperature in C
+4. "t2" - temperature in C "feels like"
+5. "hum" - humidity in percentage
+6. "wind_speed" - wind speed in km/h
+7. "weather_code" - category of the weather
+8. "is_holiday" - boolean field - 1 holiday / 0 non holiday
+9. "is_weekend" - boolean field - 1 if the day is weekend
+10. "season" - category field meteorological seasons: 0-spring ; 1-summer; 2-fall; 3-winter.
+
+# "weathe_code" category description:
+
+1.  1 = Clear ; mostly clear but have some values with haze/fog/patches of fog/ fog in vicinity
+2.  2 = scattered clouds / few clouds
+3.  3 = Broken clouds
+4.  4 = Cloudy
+5.  7 = Rain/ light Rain shower/ Light rain
+6.  10 = rain with thunderstorm
+7.  26 = snowfall
+8.  94 = Freezing Fog
 
 kaggel Dataset Link: https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset/data
