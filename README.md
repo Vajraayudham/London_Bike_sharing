@@ -1,7 +1,7 @@
 # London_Bike_sharing
 London bike sharing dataset Historical data for bike sharing in London 'Powered by TfL Open Data'
 
-Metadata:
+### Metadata:
 
 1. "timestamp" - timestamp field for grouping the data
 2. "cnt" - the count of a new bike shares
@@ -14,7 +14,7 @@ Metadata:
 9. "is_weekend" - boolean field - 1 if the day is weekend
 10. "season" - category field meteorological seasons: 0-spring ; 1-summer; 2-fall; 3-winter.
 
-# "weathe_code" category description:
+### "weathe_code" category description:
 
 1.  1 = Clear ; mostly clear but have some values with haze/fog/patches of fog/ fog in vicinity
 2.  2 = scattered clouds / few clouds
