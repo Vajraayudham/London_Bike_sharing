@@ -1,6 +1,11 @@
 # London_Bike_sharing
 London bike sharing dataset Historical data for bike sharing in London 'Powered by TfL Open Data'
 
+### Dashboard Image
+![London Bike Rides](https://github.com/Vajraayudham/London_Bike_sharing/assets/86905678/502e4f62-7044-424c-ad6b-731f0284260a)
+
+
+
 ### Metadata:
 
 1. "timestamp" - timestamp field for grouping the data
